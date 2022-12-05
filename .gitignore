@@ -15,8 +15,5 @@
 *.app
 *.pdb
 .vs/
-Debug/
-Win32/
-x64/
-build/
+cmake/
 cirrus
